@@ -6,7 +6,7 @@ Currently a Graduate Assistant researching NLP-based emotion analysis and gamifi
 
 ## What I'm Building
 
-**Dosely** — iOS app for tracking supplement and research compound dosing schedules, vial inventory, and administration logs. Built with SwiftUI, Supabase, and RevenueCat. [Available on the App Store.](https://apps.apple.com/app/dosely)
+**Dosely** — iOS app for tracking supplement and research compound dosing schedules, vial inventory, and administration logs. Built with SwiftUI, Supabase, and RevenueCat. [Available on the App Store.](https://apps.apple.com/au/app/dosely/id6759814549)
 
 **Marketing Analytics Simulation** — Full-stack platform serving 100+ paying users. Student teams compete across 5 rounds making pricing, advertising, and product decisions. Built with Next.js, PostgreSQL, Prisma, Supabase, and Stripe. 39 API routes, Row-Level Security, and a 10-step demand modeling engine.
 
