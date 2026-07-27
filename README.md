@@ -8,7 +8,7 @@ Currently a Graduate Assistant researching NLP-based emotion analysis and gamifi
 
 **Dosely** — iOS app for tracking supplement and research compound dosing schedules, vial inventory, and administration logs. Built with SwiftUI, Supabase, and RevenueCat. [Available on the App Store.](https://apps.apple.com/au/app/dosely/id6759814549)
 
-**Marketing Analytics Simulation** — Full-stack platform serving 100+ paying users. Student teams compete across 5 rounds making pricing, advertising, and product decisions. Built with Next.js, PostgreSQL, Prisma, Supabase, and Stripe. 39 API routes, Row-Level Security, and a 10-step demand modeling engine.
+**EdTech SaaS Platform** — Full-stack commercial platform serving 100+ paying users. Built with Next.js, PostgreSQL, Prisma, Supabase, and Stripe. 39 API routes, Row-Level Security, and a custom demand-modeling engine.
 
 **Data Warehouse (Microsoft Fabric)** — 3-layer Medallion Architecture processing 50K+ records with automated ETL pipelines and 5 Power BI dashboards.
 
