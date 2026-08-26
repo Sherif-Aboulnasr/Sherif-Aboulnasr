@@ -2,8 +2,6 @@
 
 Full-stack engineer and two-time founder. Sole engineer behind four subscription iOS apps with 40K+ downloads and a Next.js/PostgreSQL SaaS serving 1K+ paying users, $85K+ combined revenue across all products. I own every layer on live apps: onboarding, payments, auth, push, widgets, and production debugging.
 
-Portfolio and resume: [sherifaboulnasr.com](https://sherifaboulnasr.com)
-
 ## Shipped
 
 **[Dosely](https://apps.apple.com/us/app/dosely-peptide-tracker/id6759814549)** — Supplement and peptide dosing tracker. 30K+ downloads, $55K+ revenue.
@@ -49,4 +47,4 @@ MS in Data Analytics & AI, Florida Gulf Coast University (2026). BS in Computer 
 
 ## Contact
 
-aboulnasrsherif@gmail.com · [LinkedIn](https://linkedin.com/in/sherif-aboulnasr) · [sherifaboulnasr.com](https://sherifaboulnasr.com)
+aboulnasrsherif@gmail.com · [LinkedIn](https://linkedin.com/in/sherif-aboulnasr)
