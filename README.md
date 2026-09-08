@@ -1,6 +1,6 @@
 # Sherif Aboulnasr
 
-Full-stack engineer and two-time founder. Sole engineer behind four subscription iOS apps with 40K+ downloads and a Next.js/PostgreSQL SaaS serving 1K+ paying users, $85K+ combined revenue across all products. I own every layer on live apps: onboarding, payments, auth, push, widgets, and production debugging.
+Full-stack engineer and two-time founder. Sole engineer behind four subscription iOS apps with 50K+ downloads and a Next.js/PostgreSQL SaaS serving 1K+ paying users, $100K+ combined revenue across all products. I own every layer on live apps: onboarding, payments, auth, push, widgets, and production debugging.
 
 ## Shipped
 
