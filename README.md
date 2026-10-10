@@ -10,7 +10,7 @@
 
 <br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/proof-dark.svg"><img alt="Built. Shipped. Operated. September 2026 snapshot: $70K+ app revenue, 50K+ App Store downloads, 4 iOS apps shipped." src="assets/proof-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/proof-dark.svg"><img alt="Built. Shipped. Operated. October 2026 snapshot: $130K+ app revenue, 100K+ App Store downloads, 4 iOS apps shipped." src="assets/proof-light.svg" width="100%"></picture>
 
 <br>
 <br>
@@ -19,7 +19,7 @@
 
 <br>
 
-<a href="https://apps.apple.com/us/app/dosely-peptide-tracker/id6759814549"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dosely-dark.svg"><img alt="Dosely, native iOS. Complex routines. A calmer daily ritual. 50K+ downloads, $70K+ revenue. Built with SwiftUI, Supabase and RevenueCat. An iPhone shows the app with demo data, cycling through three screens named by a control below it: Today, the daily dashboard with doses due and an active protocol (A clear starting point for the day); Inventory, the My Fridge view of vials and amounts left (Inventory that stays connected to the routine); and Protocols, the stack view with a concentration chart and compounds (The detail behind an active protocol)." src="assets/dosely-light.svg" width="100%"></picture></a>
+<a href="https://apps.apple.com/us/app/dosely-peptide-tracker/id6759814549"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dosely-dark.svg"><img alt="Dosely, native iOS. Complex routines. A calmer daily ritual. 100K+ downloads, $130K+ revenue. Built with SwiftUI, Supabase and RevenueCat. An iPhone shows the app with demo data, cycling through three screens named by a control below it: Today, the daily dashboard with doses due and an active protocol (A clear starting point for the day); Inventory, the My Fridge view of vials and amounts left (Inventory that stays connected to the routine); and Protocols, the stack view with a concentration chart and compounds (The detail behind an active protocol)." src="assets/dosely-light.svg" width="100%"></picture></a>
 
 Schedules, vial inventory, calculations, and reminders in one native app. I built the SwiftUI experience and the systems behind it, with a cache-first architecture that keeps the daily workflow close at hand.
 
@@ -42,7 +42,7 @@ Schedules, vial inventory, calculations, and reminders in one native app. I buil
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dosely-arch-dark.svg"><img alt="Diagram: A native interface with a local-first data path. Four steps left to right: SwiftUI screens (Daily tasks and inventory), then Repositories (Explicit state ownership), then Local cache (Read without a network wait), then Backend sync (Persistence and account data)." src="assets/dosely-arch-light.svg" width="100%"></picture>
 
-**In production.** A subscription app with camera-assisted vial entry, cycle planning, and a compound library. The September 2026 portfolio snapshot records 50K+ downloads and $70K+ revenue.
+**In production.** A subscription app with camera-assisted vial entry, cycle planning, and a compound library. The October 2026 portfolio snapshot records 100K+ downloads and $130K+ revenue.
 
 </details>
 
